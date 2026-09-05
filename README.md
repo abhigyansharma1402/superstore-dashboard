@@ -1,7 +1,10 @@
-# Superstore — Sales Dashboard
+# Superstore Dashboard
 
-A React + Vite dashboard that visualizes company order data with KPI cards, charts, and a
-paginated, sortable, searchable orders table.
+A React-based interactive dashboard for analyzing sales, profit, products, customers, and business performance.
+
+## 🚀 Live Demo
+
+[View Live Dashboard] (https://superstore-dashboard-lovat.vercel.app/)
 
 ## Stack
 
